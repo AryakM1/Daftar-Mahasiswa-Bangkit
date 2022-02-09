@@ -1,4 +1,4 @@
-# Daftar-Mahasiswa-Bangkit
+Daftar-Mahasiswa-Bangkit
 ==
 Daftar Pendaftaran Mahasiswa Bangkit
 --
